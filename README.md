@@ -9,16 +9,19 @@ To write a html webpage page to display your slot timetable.
 Create a Django-admin Interface.
 
 ### STEP 2
-Create a static folder and inert HTML code.
+Create an App inside the Django project.
+
+### STEP 2
+Create a static folder uder the created App and insert HTML code.
 
 ### STEP 3
-Create a simple table using ```<table>``` tag in html.
+Create a simple table using ```<table>``` tag in html with the relevant attributes.
 
 ### STEP 4
-Add header row using ```<th>``` tag.
+Add rows using ```<tr>``` tag.
 
 ### STEP 5
-Add your timetable using ```<td>``` tag.
+Add your course schedule using ```<td>``` tag.
 
 ### STEP 6
 Execute the program using runserver command.
